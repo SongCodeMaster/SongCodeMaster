@@ -9,8 +9,6 @@
 
 <br/>
 
-<a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO_보러가기_→-2F6BFF?style=for-the-badge" alt="Portfolio"/></a>
-
 <a href="mailto:lssyl_@naver.com"><img src="https://img.shields.io/badge/lssyl__%40naver.com-111111?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=SongCodeMaster&style=flat-square&color=2F6BFF&label=VISITORS" alt="Visitors"/>
 
